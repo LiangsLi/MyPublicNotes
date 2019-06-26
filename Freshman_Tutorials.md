@@ -32,8 +32,10 @@ version：2019.6.26
 1. **Natural Language Processing** by Jacob Eisenstein
 ★★★★★【电子书】这是Jacob Eisenstein教授NLP课程（[Georgia Tech CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)）的教科书，内容质量很好，而且在不断更新。本书为开源图书，[在线更新](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 2. **Speech and Language Processing 3E** by Daniel Jurafsky
+
 ★★★★★【电子书】本书为斯坦福大学大牛编写的图书，目前已经更新到第三版（仍在编写修改），需要注意很多在线下载的本书都是第二版，本书的质量也非常高。本书在线[免费更新下载](https://web.stanford.edu/~jurafsky/slp3/)
 3. **Deep Learning inNatural Language Processing** by 邓力
+
 ★★★【电子书】本书是2017年邓力和刘洋召集一些前沿学者（主要是中国人）编写的一个NLP图书，每章都是由该领域的学者编写，所以质量也很高，不过本书编写于2017年，最近两年的新成果没有包含进去，不过仍值得一看。[地址](https://drive.google.com/file/d/1ySSs3OW4otDA8uzfXb3YAOqHr2RKKRb_/view?usp=sharing)（需要翻墙）
 4. **神经网络与深度学习** by 邱锡鹏
 ★★★★★【电子书】[地址](https://nndl.github.io/)
