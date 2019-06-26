@@ -26,8 +26,9 @@ version：2019.6.26
 - [NLP入门推荐书目（2019版） - 知乎](https://zhuanlan.zhihu.com/p/58874484)
 - [写给正在填报志愿并对CS/AI感兴趣的考生们-2019 - 知乎](https://zhuanlan.zhihu.com/p/68474477)
 - [How is computational linguistics different from natural language processing? - Quora](https://www.quora.com/How-is-computational-linguistics-different-from-natural-language-processing)
-- 
-### NLP教科书
+- [nlp - What are the fundamental differences between Natural Language Processing and Computational Linguistics? - Linguistics Stack Exchange](https://linguistics.stackexchange.com/questions/1802/what-are-the-fundamental-differences-between-natural-language-processing-and-com)
+- [What's the difference between machine learning, AI, and NLP? - Quora](https://www.quora.com/Whats-the-difference-between-machine-learning-AI-and-NLP)
+### NLP图书
 
 ### NLP课程
 ## Parser入门指南
