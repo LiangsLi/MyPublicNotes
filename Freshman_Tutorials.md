@@ -28,7 +28,7 @@ version：2019.6.26
 - [How is computational linguistics different from natural language processing? - Quora](https://www.quora.com/How-is-computational-linguistics-different-from-natural-language-processing)
 - [nlp - What are the fundamental differences between Natural Language Processing and Computational Linguistics? - Linguistics Stack Exchange](https://linguistics.stackexchange.com/questions/1802/what-are-the-fundamental-differences-between-natural-language-processing-and-com)
 - [What's the difference between machine learning, AI, and NLP? - Quora](https://www.quora.com/Whats-the-difference-between-machine-learning-AI-and-NLP)
-### NLP图书
+### 图书
 1. **Natural Language Processing** by Jacob Eisenstein
 
 	★★★★★【电子书】这是Jacob Eisenstein教授NLP课程（[Georgia Tech CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)）的教科书，内容质量很好，而且在不断更新。本书为开源图书，[在线更新](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
@@ -69,7 +69,10 @@ version：2019.6.26
 
  	★★★【实体书/电子书】[地址](https://www.deeplearningbook.org/)
 
-### NLP课程
+### 课程
+#### 机器学习课程
+Bilibili搜索 李宏毅、林轩田，他们的课程都很好
+网易云课堂：吴恩达深度学习入门 
 ## Parser入门指南
 ## 研究生学术入门指南
 
