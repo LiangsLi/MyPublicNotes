@@ -19,13 +19,14 @@ version：2019.6.26
 
 如同其他机器学习领域一样，NLP更重视会议而非期刊。NLP的顶级会议有：ACL、EMNLP、NAACL、IJCAI、AAAI、SIGIR、COLING等。国内的主流会议是NLPCC和CCL。
 
-[国内有哪些自然语言处理的牛人或团队？ - 知乎](https://www.zhihu.com/question/24366306)
-[初学者如何查阅自然语言处理学术资料（2016修订版)](https://zhuanlan.zhihu.com/p/23636267)
-[如何不出国门走进NLP学术前沿 - 知乎](https://zhuanlan.zhihu.com/p/35380020)
-[如何写一篇合格的NLP论文 - 知乎](https://zhuanlan.zhihu.com/p/58752815)
-[NLP入门推荐书目（2019版） - 知乎](https://zhuanlan.zhihu.com/p/58874484)
-[写给正在填报志愿并对CS/AI感兴趣的考生们-2019 - 知乎
-https://zhuanlan.zhihu.com/p/68474477]
+- [国内有哪些自然语言处理的牛人或团队？ - 知乎](https://www.zhihu.com/question/24366306)
+- [初学者如何查阅自然语言处理学术资料（2016修订版)](https://zhuanlan.zhihu.com/p/23636267)
+- [如何不出国门走进NLP学术前沿 - 知乎](https://zhuanlan.zhihu.com/p/35380020)
+- [如何写一篇合格的NLP论文 - 知乎](https://zhuanlan.zhihu.com/p/58752815)
+- [NLP入门推荐书目（2019版） - 知乎](https://zhuanlan.zhihu.com/p/58874484)
+- [写给正在填报志愿并对CS/AI感兴趣的考生们-2019 - 知乎](https://zhuanlan.zhihu.com/p/68474477)
+- [How is computational linguistics different from natural language processing? - Quora](https://www.quora.com/How-is-computational-linguistics-different-from-natural-language-processing)
+- 
 ### NLP教科书
 
 ### NLP课程
