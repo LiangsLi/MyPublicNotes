@@ -38,23 +38,17 @@ version：2019.6.26
 - All Algorithms implemented in Python【Python算法实现汇总】https://github.com/TheAlgorithms/Python
 - Pythonic Data Structures and Algorithms【Python数据结构与算法】https://github.com/keon/algorithms
 
-
 ### 可视化：
-pyecharts：http://pyecharts.org/#/
+- pyecharts：http://pyecharts.org/#/
 
+### 设计模式：
+- A collection of design patterns/idioms in Python https://github.com/faif/python-patterns
 
+### 网站搭建：
+- Flask教程：http://flask.pocoo.org/docs/1.0/
 
-
-设计模式：
-A collection of design patterns/idioms in Python https://github.com/faif/python-patterns
-
-
-网站搭建：
-Flask教程：http://flask.pocoo.org/docs/1.0/
-
-
-其他：
-Python代码实例：https://www.programcreek.com/python/
+### 其他：
+- Python代码实例：https://www.programcreek.com/python/
 ## NLP入门指南
 自然语言处理（NLP）是指利用计算机系统处理人类语言的学科，它属于机器学习和语言学的交叉学科，但是不得不说实际上它更类似**机器学习在具体领域的应用**。自然语言处理（NLP）和计算语言学（CL）有些许区别，不过大部分会议都混用这两个名字指代这个学科。
 
