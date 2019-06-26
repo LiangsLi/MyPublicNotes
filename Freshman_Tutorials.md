@@ -29,12 +29,12 @@ version：2019.6.26
 - [nlp - What are the fundamental differences between Natural Language Processing and Computational Linguistics? - Linguistics Stack Exchange](https://linguistics.stackexchange.com/questions/1802/what-are-the-fundamental-differences-between-natural-language-processing-and-com)
 - [What's the difference between machine learning, AI, and NLP? - Quora](https://www.quora.com/Whats-the-difference-between-machine-learning-AI-and-NLP)
 ### NLP图书
-1. Natural Language Processing by Jacob Eisenstein
+1. **++Natural Language Processing++** by Jacob Eisenstein
 这是Jacob Eisenstein教授NLP课程（[Georgia Tech CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)）的教科书，内容质量很好，而且在不断更新，非常推荐大家使用这本书和下一本作为入门图书。本书为开源图书，[在线更新](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
-2. Speech and Language Processing 3E by Daniel Jurafsky
+2. **++Speech and Language Processing 3E++** by Daniel Jurafsky
 本书为斯坦福大学大牛编写的图书，目前已经更新到第三版（仍在编写修改），需要注意很多在线下载的本书都是第二版，本书的质量也非常高，推荐这一本和第一本书作为主力教科书。本书在线[免费更新下载](https://web.stanford.edu/~jurafsky/slp3/)
-3. Deep Learning inNatural Language Processing by 邓力
-本书是邓力和刘洋召集一些前沿学者（主要是中国人）编写的一个NLP图书，
+3. **++Deep Learning inNatural Language Processing++** by 邓力
+本书是2017年邓力和刘洋召集一些前沿学者（主要是中国人）编写的一个NLP图书，每章都是由该领域的学者编写，所以质量也很高，不过本书编写于2017年，最近两年的新成果没有包含进去，不过仍值得一看。[地址](https://drive.google.com/file/d/1ySSs3OW4otDA8uzfXb3YAOqHr2RKKRb_/view?usp=sharing)（需要翻墙）
 ### NLP课程
 ## Parser入门指南
 ## 研究生学术入门指南
