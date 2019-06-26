@@ -5,7 +5,9 @@ version：2019.6.26
 希望各位新生看了之后能有所收获，以及最重要的是，你们应当开始学习了，如有任何问题，可在微信群内讨论~
 本文将不定时更新在我的[github](https://github.com/LiangsLi/MyNotes/blob/master/Freshman_Tutorials.md)上
 ## 关于实验室
+
 ## 关于语义小分队
+我们组现有文科工科学生19人（包括毕业生）左右，2017年开始招收工科生，工科生的方向
 ## NLP入门指南
 ## Parser入门指南
 ## 研究生学术入门指南
