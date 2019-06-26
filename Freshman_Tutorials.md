@@ -34,6 +34,7 @@ version：2019.6.26
 2. Speech and Language Processing 3E by Daniel Jurafsky
 本书为斯坦福大学大牛编写的图书，目前已经更新到第三版（仍在编写修改），需要注意很多在线下载的本书都是第二版，本书的质量也非常高，推荐这一本和第一本书作为主力教科书。本书在线[免费更新下载](https://web.stanford.edu/~jurafsky/slp3/)
 3. Deep Learning inNatural Language Processing by 邓力
+本书是邓力和刘洋召集一些前沿学者（主要是中国人）编写的一个NLP图书，
 ### NLP课程
 ## Parser入门指南
 ## 研究生学术入门指南
