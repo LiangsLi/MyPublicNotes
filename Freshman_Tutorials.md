@@ -30,8 +30,9 @@ version：2019.6.26
 - [What's the difference between machine learning, AI, and NLP? - Quora](https://www.quora.com/Whats-the-difference-between-machine-learning-AI-and-NLP)
 ### NLP图书
 1. Natural Language Processing by Jacob Eisenstein
-这是Jacob Eisenstein教授NLP课程的教科书，内容质量很好，而且在不断更新，非常推荐大家使用这本书作为入门图书。本书免费[在线更新]()
+这是Jacob Eisenstein教授NLP课程（[Georgia Tech CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)）的教科书，内容质量很好，而且在不断更新，非常推荐大家使用这本书作为入门图书。本书为开源图书，[在线更新](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 2. Speech and Language Processing 3E by Daniel Jurafsky
+本书为斯坦福大学大牛
 3. Deep Learning inNatural Language Processing by 邓力
 ### NLP课程
 ## Parser入门指南
