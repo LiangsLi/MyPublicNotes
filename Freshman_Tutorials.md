@@ -83,6 +83,7 @@ version：2019.6.26
 2. [浅谈部分机场（SS/SSR提供商）的使用感受--毒药笔记持续更新中](http://387099.blogspot.com/2018/03/ssssr.html)
 ### 学术搜索
 1. [科研必备 | 谷歌学术高级搜索详解 - 简书](https://www.jianshu.com/p/48baa0f38b3b)
+2. [arXiv.org e-Print archive](https://arxiv.org/)
 ### 一点建议
 1. 少用baidu，最好用google
 2. 少看中文论文，多看顶会论文
