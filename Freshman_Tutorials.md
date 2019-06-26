@@ -78,8 +78,8 @@ version：2019.6.26
 ## Parser入门指南
 ## 研究生学术入门指南
 ### 翻墙指南
-[[ShadowsocksR] 大概是萌新也看得懂的SSR功能详细介绍&使用教程 - 神代綺凜の萌化小基地](https://moe.best/tutorial/shadowsocksr.html)
-[浅谈部分机场（SS/SSR提供商）的使用感受--毒药笔记持续更新中](http://387099.blogspot.com/2018/03/ssssr.html)
+1. [[ShadowsocksR] 大概是萌新也看得懂的SSR功能详细介绍&使用教程 - 神代綺凜の萌化小基地](https://moe.best/tutorial/shadowsocksr.html)
+2. [浅谈部分机场（SS/SSR提供商）的使用感受--毒药笔记持续更新中](http://387099.blogspot.com/2018/03/ssssr.html)
 ### 学术搜索
 [科研必备 | 谷歌学术高级搜索详解 - 简书](https://www.jianshu.com/p/48baa0f38b3b)
 ### 一点建议
