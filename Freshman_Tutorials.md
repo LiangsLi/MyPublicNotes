@@ -38,6 +38,8 @@ version：2019.6.26
 神经网络与深度学习 by 邱锡鹏
 ★★★★★【电子书】
 [地址](https://nndl.github.io/)
+神经网络与深度学习 by Michael Nielsen (哈工大译)
+★★★★★【电子书】[地址]()
 4. 基于深度学习的自然语言处理 by Yoav Goldberg （车万翔译）
 ★★★★【实体书】
 5. 统计自然语言处理 by 宗成庆
@@ -46,6 +48,8 @@ version：2019.6.26
 ★★★【实体书】
 7. 机器学习（西瓜书）by 周志华
 ★★★【实体书】
+深度学习（花书）by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+★★★【实体书/电子书】[地址](https://www.deeplearningbook.org/)
 ### NLP课程
 ## Parser入门指南
 ## 研究生学术入门指南
