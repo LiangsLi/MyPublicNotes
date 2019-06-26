@@ -31,34 +31,34 @@ version：2019.6.26
 ### NLP图书
 1. **Natural Language Processing** by Jacob Eisenstein
 
-★★★★★【电子书】这是Jacob Eisenstein教授NLP课程（[Georgia Tech CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)）的教科书，内容质量很好，而且在不断更新。本书为开源图书，[在线更新](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+  ★★★★★【电子书】这是Jacob Eisenstein教授NLP课程（[Georgia Tech CS 4650 and 7650](https://github.com/jacobeisenstein/gt-nlp-class)）的教科书，内容质量很好，而且在不断更新。本书为开源图书，[在线更新](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 2. **Speech and Language Processing 3E** by Daniel Jurafsky
 
-★★★★★【电子书】本书为斯坦福大学大牛编写的图书，目前已经更新到第三版（仍在编写修改），需要注意很多在线下载的本书都是第二版，本书的质量也非常高。本书在线[免费更新下载](https://web.stanford.edu/~jurafsky/slp3/)
+  ★★★★★【电子书】本书为斯坦福大学大牛编写的图书，目前已经更新到第三版（仍在编写修改），需要注意很多在线下载的本书都是第二版，本书的质量也非常高。本书在线[免费更新下载](https://web.stanford.edu/~jurafsky/slp3/)
 3. **Deep Learning inNatural Language Processing** by 邓力
 
-★★★【电子书】本书是2017年邓力和刘洋召集一些前沿学者（主要是中国人）编写的一个NLP图书，每章都是由该领域的学者编写，所以质量也很高，不过本书编写于2017年，最近两年的新成果没有包含进去，不过仍值得一看。[地址](https://drive.google.com/file/d/1ySSs3OW4otDA8uzfXb3YAOqHr2RKKRb_/view?usp=sharing)（需要翻墙）
+  ★★★【电子书】本书是2017年邓力和刘洋召集一些前沿学者（主要是中国人）编写的一个NLP图书，每章都是由该领域的学者编写，所以质量也很高，不过本书编写于2017年，最近两年的新成果没有包含进去，不过仍值得一看。[地址](https://drive.google.com/file/d/1ySSs3OW4otDA8uzfXb3YAOqHr2RKKRb_/view?usp=sharing)（需要翻墙）
 4. **神经网络与深度学习** by 邱锡鹏
 
-★★★★★【电子书】[地址](https://nndl.github.io/)
+  ★★★★★【电子书】[地址](https://nndl.github.io/)
 5. **神经网络与深度学习** by Michael Nielsen (哈工大译)
 
-★★★★★【电子书】[地址](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/)
+  ★★★★★【电子书】[地址](https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/)
 6. **基于深度学习的自然语言处理** by Yoav Goldberg （车万翔译）
 
-★★★★【实体书】
+  ★★★★【实体书】
 7. **统计自然语言处理** by 宗成庆
 
-★★★【实体书】
+  ★★★【实体书】
 8. **统计机器学习**（第二版）by 李航
 
-★★★【实体书】
+  ★★★【实体书】
 9. **机器学习**（西瓜书）by 周志华
 
-★★★【实体书】
+  ★★★【实体书】
 10. **深度学习**（花书）by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
-★★★【实体书/电子书】[地址](https://www.deeplearningbook.org/)
+  ★★★【实体书/电子书】[地址](https://www.deeplearningbook.org/)
 ### NLP课程
 ## Parser入门指南
 ## 研究生学术入门指南
