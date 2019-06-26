@@ -17,7 +17,13 @@ version：2019.6.26
 
 由于深度学习的巨大成功，现在NLP的主流方法（指学术界）基本都是神经网络方法。因此想要深入掌握这一学科，不仅仅要关注NLP这个领域的发展，也要关注机器学习、深度学习社区的前沿。
 
-如同其他机器学习领域一样，NLP更重视会议而非期刊。NLP的顶级会议有：ACL、EMNLP、NAACL、IJCAI、AAAI、SIGIR、COLING
+如同其他机器学习领域一样，NLP更重视会议而非期刊。NLP的顶级会议有：ACL、EMNLP、NAACL、IJCAI、AAAI、SIGIR、COLING等。国内的主流会议是NLPCC和CCL。
+
+[国内有哪些自然语言处理的牛人或团队？ - 知乎](https://www.zhihu.com/question/24366306)
+
+### NLP教科书
+
+### NLP课程
 ## Parser入门指南
 ## 研究生学术入门指南
 ## 其他研究方向入门指南
