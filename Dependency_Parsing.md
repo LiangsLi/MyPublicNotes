@@ -21,6 +21,7 @@
 - Wang, Xinyu, Jingxian Huang, and Kewei Tu. "Second-Order Semantic Dependency Parsing with End-to-End Neural Networks." arXiv preprint arXiv:1906.07880 (2019).
 ## 中文语义依存图分析论文列表
 - Ding, Y.; Shao, Y.; Che, W.; and Liu, T. 2014. Dependency graph based chinese semantic parsing. In Chinese Computa-tional Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer. 58–69. 
+- Che, W.; Shao, Y.; Liu, T.; and Ding, Y. 2016. Semeval-2016 task 9: Chinese semantic dependency parsing. In Proc. of SemEval, 1074–1080. 
 - Wang, Yuxuan, et al. “A neural transition-based approach for semantic dependency graph parsing.” Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 - Dependency-Gated Cascade Biaffine Network for Chinese Semantic Dependency Graph Parsing
 - Adversarial Domain Adaptation for Chinese Semantic Dependency Graph Parsing 
