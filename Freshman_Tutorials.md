@@ -80,19 +80,23 @@ version：2019.6.26
 #### NLP课程
 1. 斯坦福 CS224
 ## NLP前沿学者主页
+
 (排名不分先后)
-[Stanford NLP Group](https://nlp.stanford.edu/)
-[Harvarf NLP Group](http://nlp.seas.harvard.edu/)
-[Facebook Research](https://github.com/facebookresearch)
-[Meishan Zhang - 词法句法分析](https://zhangmeishan.github.io/)
-[Rui Yan - 对话](http://www.ruiyan.me/)
-[Yue Zhang - 词法句法分析](https://frcchang.github.io/index.html)
-[Percy Liang - NLP](https://cs.stanford.edu/~pliang/)
-[Yijia Liu - 词法句法分析](http://yjliu.net/cv/)
-[Yiming Cui - 阅读理解](https://ymcui.github.io/)
-[Wangxiang Che - 词法句法分析/任务型对话](http://ir.hit.edu.cn/~car/chinese.htm)
-[Zhiyuan Liu - NLP](http://nlp.csai.tsinghua.edu.cn/~lzy/)
-[Zhenghua Li - 词法句法分析](http://hlt.suda.edu.cn/~zhli/en.html)
+- [Google AI](https://ai.google/research/)
+- [Stanford NLP Group](https://nlp.stanford.edu/)
+- [Harvarf NLP Group](http://nlp.seas.harvard.edu/)
+- [Facebook Research](https://github.com/facebookresearch)
+--------
+- [Meishan Zhang - 词法句法分析](https://zhangmeishan.github.io/)
+- [Rui Yan - 对话](http://www.ruiyan.me/)
+- [Yue Zhang - 词法句法分析](https://frcchang.github.io/index.html)
+- [Percy Liang - NLP](https://cs.stanford.edu/~pliang/)
+- [Yijia Liu - 词法句法分析](http://yjliu.net/cv/)
+- [Yiming Cui - 阅读理解](https://ymcui.github.io/)
+- [Wangxiang Che - 词法句法分析/任务型对话](http://ir.hit.edu.cn/~car/chinese.htm)
+- [Zhiyuan Liu - NLP](http://nlp.csai.tsinghua.edu.cn/~lzy/)
+- [Zhenghua Li - 词法句法分析](http://hlt.suda.edu.cn/~zhli/en.html)
+
 ## Parser入门指南
 ## 研究生学术入门指南
 ### 翻墙指南
