@@ -20,3 +20,6 @@
 - Dozat, Timothy, and Christopher D. Manning. "Simpler but more accurate semantic dependency parsing." arXiv preprint arXiv:1807.01396 (2018).
 - Wang, Xinyu, Jingxian Huang, and Kewei Tu. "Second-Order Semantic Dependency Parsing with End-to-End Neural Networks." arXiv preprint arXiv:1906.07880 (2019).
 ## 中文语义依存图分析论文列表
+- Ding, Y.; Shao, Y.; Che, W.; and Liu, T. 2014. Dependency graph based chinese semantic parsing. In Chinese Computa-tional Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer. 58–69. 
+- Wang, Yuxuan, et al. “A neural transition-based approach for semantic dependency graph parsing.” Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+- 
