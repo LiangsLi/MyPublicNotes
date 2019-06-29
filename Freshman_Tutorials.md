@@ -80,6 +80,9 @@ version：2019.6.26
 #### NLP课程
 1. 斯坦福 CS224
 ## NLP前沿学者主页
+(排名不分先后)
+[Meishan Zhang](https://zhangmeishan.github.io/)
+[]
 ## Parser入门指南
 ## 研究生学术入门指南
 ### 翻墙指南
