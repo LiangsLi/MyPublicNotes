@@ -98,7 +98,8 @@ version：2019.6.26
 - [Zhenghua Li - 词法句法分析](http://hlt.suda.edu.cn/~zhli/en.html)
 
 ## Parser入门指南
-请移步至[Dependency Parsing]()
+请移步至[Dependency Parsing](https://github.com/LiangsLi/MyNotes/blob/master/Dependency_Parsing.md)
+
 ## 研究生学术入门指南
 ### 翻墙指南
 1. [[ShadowsocksR] 大概是萌新也看得懂的SSR功能详细介绍&使用教程 - 神代綺凜の萌化小基地](https://moe.best/tutorial/shadowsocksr.html)
