@@ -22,4 +22,5 @@
 ## 中文语义依存图分析论文列表
 - Ding, Y.; Shao, Y.; Che, W.; and Liu, T. 2014. Dependency graph based chinese semantic parsing. In Chinese Computa-tional Linguistics and Natural Language Processing Based on Naturally Annotated Big Data. Springer. 58–69. 
 - Wang, Yuxuan, et al. “A neural transition-based approach for semantic dependency graph parsing.” Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
-- 
+- Dependency-Gated Cascade Biaffine Network for Chinese Semantic Dependency Graph Parsing
+- Adversarial Domain Adaptation for Chinese Semantic Dependency Graph Parsing 
