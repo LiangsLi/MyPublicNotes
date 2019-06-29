@@ -11,4 +11,5 @@
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
 ## 基于图算法的依存分析论文列表
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
+- Dozat, Timothy, and Christopher D. Manning. "Deep biaffine attention for neural dependency parsing." arXiv preprint arXiv:1611.01734 (2016).
 ## 中文语义依存图分析论文列表
