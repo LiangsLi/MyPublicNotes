@@ -4,5 +4,9 @@
 - **Speech and Language Processing 3E** (Daniel Jurafsky)第11章，
 - **Deep Learning in Natural Language Processing** (邓力)第4章
 ## 基于转移的依存分析论文列表
+- Nivre, Joakim. "Algorithms for deterministic incremental dependency parsing." Computational Linguistics 34.4 (2008): 513-553.
+- Yue Zhang and Joakim Nivre. 2011. Transition-based dependency parsing with rich non-local features. In Proceedings of the 49th Annual Meeting of the Asso-ciation for Computational Linguistics: Human Lan-guage Technologies. Portland, Oregon, USA, pages 188–193.
+- Danqi Chen and Christopher Manning. 2014. A fast and accurate dependency parser using neural net-works. In Proceedings of EMNLP-2014. Doha, Qatar, pages 740–750. 
+- 
 ## 基于图算法的依存分析论文列表
 ## 中文语义依存图分析论文列表
