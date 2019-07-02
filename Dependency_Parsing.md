@@ -24,7 +24,8 @@
   Stack-LSTM
 
 - Cross, J., and Huang, L. 2016a. Incremental parsing with minimal features using bi-directional lstm. In Proc. of ACL, 32–37.
- 
+  【短语结构分析】use bi-directional LSTM sentence representations to model a parser state with only three sentence positions, which au-tomatically identifies important aspects of the entire sentence.
+
 - Andor, D.; Alberti, C.; Weiss, D.; Severyn, A.; Presta, A.; Ganchev, K.; Petrov, S.; and Collins, M. 2016. Globally nor-malized transition-based neural networks. InProc. of ACL, 2442–2452. 
 
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
