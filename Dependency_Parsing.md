@@ -21,7 +21,7 @@
   第一篇深度学习论文
  
 - Dyer, Chris, et al. "Transition-Based Dependency Parsing with Stack Long Short-Term Memory." Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). Vol. 1. 2015.
-
+  Stack-LSTM
 - Cross, J., and Huang, L. 2016a. Incremental parsing with minimal features using bi-directional lstm. In Proc. of ACL, 32–37.
  
 - Andor, D.; Alberti, C.; Weiss, D.; Severyn, A.; Presta, A.; Ganchev, K.; Petrov, S.; and Collins, M. 2016. Globally nor-malized transition-based neural networks. InProc. of ACL, 2442–2452. 
