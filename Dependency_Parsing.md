@@ -6,8 +6,10 @@
 ## 基于转移的依存分析论文列表
 - Nivre, Joakim. "An efficient algorithm for projective dependency parsing." Proceedings of the Eighth International Conference on Parsing Technologies. 2003.
   提出Arc-eager，只能处理投射树
+
 - Nivre, Joakim. "Algorithms for deterministic incremental dependency parsing." Computational Linguistics 34.4 (2008): 513-553.
   提出List-based算法，能够处理非投射树
+
 - Yue Zhang and Joakim Nivre. 2011. Transition-based dependency parsing with rich non-local features. In Proceedings of the 49th Annual Meeting of the Asso-ciation for Computational Linguistics: Human Lan-guage Technologies. Portland, Oregon, USA, pages 188–193.
 - Choi, J. D., and McCallum, A. 2013. Transition-based de-pendency parsing with selectional branching. In Proc. of ACL, 1052–1062. 
 - Danqi Chen and Christopher Manning. 2014. A fast and accurate dependency parser using neural net-works. In Proceedings of EMNLP-2014. Doha, Qatar, pages 740–750. 
