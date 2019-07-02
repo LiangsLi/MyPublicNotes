@@ -14,7 +14,8 @@
   更丰富的特征表示能够显著提升分析器的性能
 
 - Choi, J. D., and McCallum, A. 2013. Transition-based dependency parsing with selectional branching. In Proc. of ACL, 1052–1062. 
-  
+  选择分支：在解码阶段能够根据置信度估计器选择合适的Beam，这使得算法既保持了贪婪解码的速度，有具有Beam Search的精度
+  新的转移系统，以接近线性时间复杂度的速度处理非投射
 
 - Danqi Chen and Christopher Manning. 2014. A fast and accurate dependency parser using neural net-works. In Proceedings of EMNLP-2014. Doha, Qatar, pages 740–750. 
 - Dyer, Chris, et al. "Transition-Based Dependency Parsing with Stack Long Short-Term Memory." Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). Vol. 1. 2015.
