@@ -17,12 +17,19 @@
   选择分支：在解码阶段能够根据置信度估计器选择合适的Beam，这使得算法既保持了贪婪解码的速度，有具有Beam Search的精度
   新的转移系统，以接近线性时间复杂度的速度处理非投射
 
-- Danqi Chen and Christopher Manning. 2014. A fast and accurate dependency parser using neural networks. In Proceedings of EMNLP-2014. Doha, Qatar, pages 740–750. 
+- Danqi Chen and Christopher Manning. 2014. A fast and accurate dependency parser using neural networks. In Proceedings of EMNLP-2014. Doha, Qatar, pages 740–750.
+  第一篇深度学习论文
+ 
 - Dyer, Chris, et al. "Transition-Based Dependency Parsing with Stack Long Short-Term Memory." Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). Vol. 1. 2015.
-- Cross, J., and Huang, L. 2016a. Incremental parsing with minimal features using bi-directional lstm. In Proc. of ACL, 32–37. 
+
+- Cross, J., and Huang, L. 2016a. Incremental parsing with minimal features using bi-directional lstm. In Proc. of ACL, 32–37.
+ 
 - Andor, D.; Alberti, C.; Weiss, D.; Severyn, A.; Presta, A.; Ganchev, K.; Petrov, S.; and Collins, M. 2016. Globally nor-malized transition-based neural networks. InProc. of ACL, 2442–2452. 
+
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
+
 - Wang, Yuxuan, et al. "A neural transition-based approach for semantic dependency graph parsing." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+
 ## 基于图算法的依存分析论文列表
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
 - Dozat, Timothy, and Christopher D. Manning. "Deep biaffine attention for neural dependency parsing." arXiv preprint arXiv:1611.01734 (2016).
