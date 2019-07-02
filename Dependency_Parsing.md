@@ -10,6 +10,8 @@
 - Nivre, Joakim. "Algorithms for deterministic incremental dependency parsing." Computational Linguistics 34.4 (2008): 513-553.
   提出List-based算法，能够处理非投射树
 
+- 【beam search】
+
 - Yue Zhang and Joakim Nivre. 2011. Transition-based dependency parsing with rich non-local features. In Proceedings of the 49th Annual Meeting of the Asso-ciation for Computational Linguistics: Human Lan-guage Technologies. Portland, Oregon, USA, pages 188–193.
   更丰富的特征表示能够显著提升分析器的性能
 
@@ -32,6 +34,7 @@
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
 
 - Wang, Yuxuan, et al. "A neural transition-based approach for semantic dependency graph parsing." Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+  解决图结构的分析问题
 
 ## 基于图算法的依存分析论文列表
 - Kiperwasser, Eliyahu, and Yoav Goldberg. "Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations." Transactions of the Association for Computational Linguistics 4.1 (2016): 313-327.
