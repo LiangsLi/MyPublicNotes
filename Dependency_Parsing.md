@@ -4,7 +4,8 @@
 - **Speech and Language Processing 3E** (Daniel Jurafsky)第11章，
 - **Deep Learning in Natural Language Processing** (邓力)第4章
 ## 基于转移的依存分析论文列表
-- Nivre, J. 2003. An efficient algorithm for projective depen-dency parsing. In Proc. of IWPT, 149–160. 
+- Nivre, Joakim. "An efficient algorithm for projective dependency parsing." Proceedings of the Eighth International Conference on Parsing Technologies. 2003.
+  This paper presents a deterministic parsing algorithm for pro jective dependency grammar. The running time of the algorithm is linear in the length of the input string, and the dependency graph produced is guaranteed to be pro jective and acyclic. The algorithm has been experimentally evaluated in parsing unrestricted Swedish text, achieving an accuracy above 85% with a very simple grammar. 
 - Nivre, Joakim. "Algorithms for deterministic incremental dependency parsing." Computational Linguistics 34.4 (2008): 513-553.
 - Yue Zhang and Joakim Nivre. 2011. Transition-based dependency parsing with rich non-local features. In Proceedings of the 49th Annual Meeting of the Asso-ciation for Computational Linguistics: Human Lan-guage Technologies. Portland, Oregon, USA, pages 188–193.
 - Choi, J. D., and McCallum, A. 2013. Transition-based de-pendency parsing with selectional branching. In Proc. of ACL, 1052–1062. 
