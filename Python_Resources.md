@@ -1,4 +1,10 @@
 # Python学习资源
+version：2019.07.14
+
+## 优秀的Python学习网站
+1. [Python Tutorials – Real Python](https://realpython.com/)
+
+
 ## 指南、教程：
 - 廖雪峰Python教程：https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
 - Python最佳实践指南！https://pythonguidecn.readthedocs.io/zh/latest/index.html
