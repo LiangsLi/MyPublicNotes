@@ -15,6 +15,7 @@ version：2019.7.16
 
 ## 语言学相关
 1. [刘海涛](http://www.lingviko.net/eniro.html)
+  
   研究方向：
 · 计量语言学
 · 计算认知科学
