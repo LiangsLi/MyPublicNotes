@@ -13,7 +13,9 @@ version：2019.7.16
   1. 语义依存图分析器的建设和相关应用
   2. 中文词汇语义网的建设和相关应用
 
-文科方面我不是非常清楚，具体可以咨询立辉师兄
+## 语言学相关
+1. [刘海涛](http://www.lingviko.net/eniro.html)
+
 ## Python学习资料
 请移步至[Python Resources](https://github.com/LiangsLi/MyNotes/blob/master/Python_Resources.md)
 ## Pytorch学习资料
