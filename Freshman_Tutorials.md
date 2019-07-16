@@ -101,6 +101,9 @@ version：2019.6.29
 请移步至[Dependency Parsing](https://github.com/LiangsLi/MyNotes/blob/master/Dependency_Parsing.md)
 
 ## 研究生学术入门指南
+### 学术生活的基本技能
+1. 翻墙【如果】
+2. 
 ### 翻墙指南
 1. [[ShadowsocksR] 大概是萌新也看得懂的SSR功能详细介绍&使用教程 - 神代綺凜の萌化小基地](https://moe.best/tutorial/shadowsocksr.html)
 2. [浅谈部分机场（SS/SSR提供商）的使用感受--毒药笔记持续更新中](http://387099.blogspot.com/2018/03/ssssr.html)
