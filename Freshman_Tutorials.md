@@ -17,7 +17,7 @@ version：2019.7.16
 ## Python学习资料
 请移步至[Python Resources](https://github.com/LiangsLi/MyNotes/blob/master/Python_Resources.md)
 ## Pytorch学习资料
-这部分包括一些和NLP相关的
+这部分包括一些和NLP相关的Pytorch资源，移步[learn Pytorch](https://github.com/LiangsLi/MyNotes/blob/master/learn_pytorch.md)
 ## NLP入门指南
 自然语言处理（NLP）是指利用计算机系统处理人类语言的学科，它属于机器学习和语言学的交叉学科，但是不得不说实际上它更类似**机器学习在具体领域的应用**。自然语言处理（NLP）和计算语言学（CL）有些许区别，不过大部分会议都混用这两个名字指代这个学科。
 
