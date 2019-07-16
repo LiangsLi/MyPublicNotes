@@ -15,13 +15,7 @@ version：2019.7.16
 
 ## 语言学相关
 1. [刘海涛](http://www.lingviko.net/eniro.html)
-  
-  研究方向：
-· 计量语言学
-· 计算认知科学
-· 依存语法和配价理论
-· 语言规划与语言政策
-· 国际语语言学和世界语学
+  研究方向：计量语言学、计算认知科学、依存语法和配价理论等等
 
 ## Python学习资料
 请移步至[Python Resources](https://github.com/LiangsLi/MyNotes/blob/master/Python_Resources.md)
