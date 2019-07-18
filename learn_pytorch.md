@@ -18,5 +18,10 @@ github地址：https://github.com/pytorch/text
 
 教程 2：http://anie.me/On-Torchtext/
 ### Allennlp
+
+教程 1：[An In-Depth Tutorial to AllenNLP (From Basics to ELMo and BERT)](https://mlexplained.com/2019/01/30/an-in-depth-tutorial-to-allennlp-from-basics-to-elmo-and-bert/)
+
 ### PyText
+
+### FairSeq
 ## FAQ
