@@ -90,6 +90,9 @@ version：2019.7.18
 
 Ruder博士的博客，内容主要是关于会议论文的讨论
 
+3、HuggingFace – Medium  https://medium.com/huggingface
+
+4、
 
 
 ### 课程
