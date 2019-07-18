@@ -83,6 +83,8 @@ version：2019.7.18
 
 作者会分享大量NLP论文和相关代码实现，质量非常高
 
+2、[Sebastian Ruder](http://ruder.io/) Ruder博士的博客，
+
 ### 课程
 #### 机器学习课程
 1. Bilibili搜索 李宏毅、林轩田，他们的课程都很好
