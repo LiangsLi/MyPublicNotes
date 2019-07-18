@@ -1,5 +1,5 @@
 # 语义小分队新生指南 
-version：2019.7.16
+version：2019.7.18
 ## 关于本文
 一直想整理一个新生指南，帮助各位实验室新人快速适应研究生生活，但是最近自己事情非常多，自己又很懒，所以就一拖再拖，最近看了其他组的几个新生的动态，发现有的研零同学已经做了很多工作了，愈发感到让我们组的新生快点上手学习的必要性和紧迫性，所以抽出午休时间临时写了这个文章，本文依然在建设之中，内容不够完备，大家先将就着看看。
 
@@ -77,6 +77,11 @@ version：2019.7.16
 10. **深度学习**（花书）by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 
  	★★★【实体书/电子书】[地址](https://www.deeplearningbook.org/)
+
+### 优秀学习网站/博客
+1、[ML Explained - Machine Learning for practitioners](https://mlexplained.com/)
+
+作者会分享大量NLP论文和相关代码实现，质量非常高
 
 ### 课程
 #### 机器学习课程
