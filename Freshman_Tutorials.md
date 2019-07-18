@@ -92,8 +92,11 @@ Ruder博士的博客，内容主要是关于会议论文的讨论
 
 3、HuggingFace – Medium  https://medium.com/huggingface
 
-4、
+4、Towards Data Science  https://towardsdatascience.com/
 
+5、TensorFlow – Medium  https://medium.com/tensorflow
+
+6、dair.ai – Medium  https://medium.com/dair-ai
 
 ### 课程
 #### 机器学习课程
