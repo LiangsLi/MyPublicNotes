@@ -19,6 +19,9 @@ github地址：https://github.com/pytorch/text
 教程 2：http://anie.me/On-Torchtext/
 
 教程 3：[Use torchtext to Load NLP Datasets](https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-i-5da6f1c89d84)
+
+实例 1：Quora PyTorch + TorchText | Kaggle  https://www.kaggle.com/lemonwaffle/quora-pytorch-torchtext
+
 ### 二、AllenNLP
 
 教程 1：[An In-Depth Tutorial to AllenNLP (From Basics to ELMo and BERT)](https://mlexplained.com/2019/01/30/an-in-depth-tutorial-to-allennlp-from-basics-to-elmo-and-bert/)
