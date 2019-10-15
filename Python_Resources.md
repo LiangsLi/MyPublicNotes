@@ -13,6 +13,7 @@ version：2019.07.14
 - Real Python Tutorials https://realpython.com/
 - 【英】The Hitchhiker’s Guide to Python!  https://docs.python-guide.org/
 - 【英】Python 文档：https://docs.python.org/3/
+- Python Tips: http://book.pythontips.com/en/latest/index.html
 
 ## 进阶
 - Python 魔术方法指南 https://pycoders-weekly-chinese.readthedocs.io/en/latest/issue6/a-guide-to-pythons-magic-methods.html#
