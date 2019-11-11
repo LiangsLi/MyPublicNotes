@@ -10,7 +10,7 @@
 - Nivre, Joakim. "Algorithms for deterministic incremental dependency parsing." Computational Linguistics 34.4 (2008): 513-553.
   提出List-based算法，能够处理非投射树
 
-- 【beam search】
+- 【beam search】论文略
 
 - Yue Zhang and Joakim Nivre. 2011. Transition-based dependency parsing with rich non-local features. In Proceedings of the 49th Annual Meeting of the Asso-ciation for Computational Linguistics: Human Lan-guage Technologies. Portland, Oregon, USA, pages 188–193.
   更丰富的特征表示能够显著提升分析器的性能
